@@ -1,0 +1,20 @@
+1. git init
+2. git add -A
+3. git commit -m "*title*"
+4. git remote add origin *repository url*
+5. git push origin master
+
+
+USE STEPS 2, 3, and 5 FOR ADDITIONAL COMMITS LATER ON.
+
+*git --help* for help
+
+When you go onto another computer, you should do:
+ 1.	git init 
+ 2.	git config --system http.sslcainfo /mingw64/ssl/certs/ca-bundle.crt
+ 3.	Steps 2, 3, and 5 again
+
+
+
+ColePoulos1
+Mvhs002931
